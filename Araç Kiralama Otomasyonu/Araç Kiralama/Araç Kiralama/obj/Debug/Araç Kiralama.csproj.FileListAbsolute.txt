@@ -1,0 +1,86 @@
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAnaSayfa.resources
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriEkle.resources
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.Properties.Resources.resources
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç Kiralama.pdb
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriListele.resources
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçKayıt.resources
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçListele.resources
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSözleşme.resources
+C:\Users\PC\source\repos\araçkiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSatış.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAnaSayfa.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçKayıt.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçListele.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriEkle.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriListele.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSatış.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSözleşme.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.Properties.Resources.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.pdb
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CopyComplete
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmHarita.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAnaSayfa.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçKayıt.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçListele.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmHarita.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriEkle.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriListele.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSatış.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSözleşme.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.Properties.Resources.resources
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CopyComplete
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+C:\Users\PC\Desktop\Araştırma Yön. ve Tek Son\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.pdb
